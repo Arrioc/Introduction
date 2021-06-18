@@ -1,9 +1,9 @@
 # Sections
 <details>
   <summary>Click to expand</summary>
-  
+
 [Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/)
--- | --
+
 </details>
 
 # __Meet My Artifact__
