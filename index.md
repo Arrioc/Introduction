@@ -1,4 +1,4 @@
-###### Sections
+## Sections
 <details>
   <summary>Click to expand!</summary>
 
@@ -6,9 +6,8 @@
 
 </details>
 
-
-# Meet My Artifact
-
+*
+*
 # The Artifact
  * The artifact I chose for enhancement is a representational state transfer (RESTful) webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents. The artifact accomplishes its tasks both through an internal service and an external web service that utilizes the RESTful application programming interface (API).
  
