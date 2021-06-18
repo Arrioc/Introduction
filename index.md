@@ -23,3 +23,5 @@ My plan for software engineering and design is to improve the software by creati
 The plan for algorithms and data structures is to add to the complexity of the artifact by creating new algorithms. These algorithms will allow for internal and API module field deletion, internal document retrieval and a menu that allows users to select program services to run.
 
 My plan for database enhancement is to utilize more advanced administrative methods to investigate and apply performance tuning on the database, with the end-goal of improving database efficiency by speeding up its reads and writes.
+
+To skip to the source code, please see the source code link at the top of the page.
