@@ -1,5 +1,5 @@
 ## Sections
-[Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/) | [Database](https://arrioc.github.io/Portfolio-Database/) | [Source Code](https://github.com/Arrioc/Enhanced-Artifact)
+[Software Design & Engineering](https://arrioc.github.io/Software-Design/) | [Algorithms & Data Structures](https://arrioc.github.io/Algorithms-DataStructures/) | [Database](https://arrioc.github.io/Portfolio-Database/) | [Old Source Code](https://github.com/Arrioc/CS340_client-server) | [New Source Code](https://github.com/Arrioc/Enhanced-Artifact)
 
 # The Artifact
  * The artifact I chose for enhancement is a representational state transfer (RESTful) webservice stack with an industry-standard interface that I created in my CS 340 Client-Server course six months ago. This program can perform queries and aggregations, reporting on documents in the database in numerous ways. It can also create, read, update, and delete (CRUD) documents. The artifact accomplishes its tasks both through an internal service and an external web service that utilizes the RESTful application programming interface (API).
@@ -24,4 +24,6 @@ The plan for algorithms and data structures is to add to the complexity of the a
 
 My plan for database enhancement is to utilize more advanced administrative methods to investigate and apply performance tuning on the database, with the end-goal of improving database efficiency by speeding up its reads and writes.
 
-To skip to the source code, please see the source code link at the top of the page.
+Now on to [Software Design & Engineering](https://arrioc.github.io/Software-Design/)
+
+Note: To see the old or new source code, please see the source code links at the top of the page.
