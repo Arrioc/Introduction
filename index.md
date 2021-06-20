@@ -13,7 +13,7 @@
 
 ## Code Review
 The following is a code review that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
-The video is 41m. I'd like to edit this down to twenty minutes as soon as I can.
+The video is 41 minutes. I will edit this to be shorter as soon as I can.
 
 Watch [Arrioc's Code Review Video](https://www.youtube.com/watch?v=wDXqfWe2RQw){:target="_blank"}
 
