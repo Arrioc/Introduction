@@ -15,7 +15,7 @@
 The following is a code review that explains the chosen project and its code, analyzes the code for flaws, and decides on a plan for enhancement. 
 The video is 41m. I'd like to edit this down to twenty minutes as soon as I can.
 
-Watch [Arrioc's Code Review Video](https://www.youtube.com/" target="_blank"watch?v=wDXqfWe2RQw)
+Watch [Arrioc's Code Review Video](https://www.youtube.com/" target="_blank"watch?v=wDXqfWe2RQw){:target="_blank"}
 
 ## The Plan Summary
 My plan for software engineering and design is to improve the software by creating more readable output, more user-friendly input, and a well-rounded 'update' module for the API which will help to deliver better value. I will also remove unused code, improve commenting, and try to fix any bugs.
